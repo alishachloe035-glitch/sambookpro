@@ -1,0 +1,9 @@
+
+{
+  "name": "Bestseller Architect - Expert Book Marketing Portfolio",
+  "description": "A high-end, interactive portfolio for a veteran book marketer featuring a 3D book showcase, interactive timeline, and an AI-powered consultation chatbot.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
